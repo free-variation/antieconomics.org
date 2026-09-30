@@ -1,0 +1,8 @@
+---
+number: 75
+title: "The supermarket piglet"
+---
+
+In a book titled *Un paso adelante en defensa de los animales* \[A Step Forward in Defense of Animals\], Óscar Horta proposes an exercise for the imagination. Suppose – he says – that we have broken a leg, we can't go out to shop, so we place an order at the supermarket. The order consists of vegetables, rice, legumes, and pork. When they knock on the door, however, we’re informed that because there’s a strike at the slaughterhouse, they can't provide us with the processed meat we requested. Instead, they bring us a piglet that licks the delivery person’s hand and tries to play with her. Along with the piglet there’s a large knife and an apron. We can stick to the vegetables, of course, but if we want meat, we’ll have no choice but to slaughter the piglet, which will of course resist the unspeakable. In that situation, what would we do?
+
+Horta enters into an interesting discussion, questioning whether, if all humans became vegans, there would be enough plant products to guarantee our nutrition. Is it possible that veganism isn't a viable alternative, regardless of our commendable effort to defend animal rights? The answer here is reasonably simple: animals exploited for our food must, of course, be fed. If instead of allocating legumes, cereals, and other vegetables to the feeding of these animals for the meat industry, we used them to feed humans, wouldn't we have more than enough food? Wouldn't we significantly reduce the emissions of substances that, because of the meat industry, are at the origin of climate change? And ultimately, wouldn't we end the immense suffering that so many animals endure?

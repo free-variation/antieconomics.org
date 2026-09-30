@@ -1,0 +1,12 @@
+---
+number: 32
+title: "Virtues of high speed"
+---
+
+Among contemporary Spanish myths, that of the AVE, of high speed railways, stands out with a force of its own.  It’s materialized in trains for the rich, that, unstainable, consume vast amounts of energy, and paradoxically lead to the striking phenomenon of railway desertification.
+
+A few years ago, the then Spanish president, José Luis Rodríguez Zapatero, inaugurated a high-speed section between Córdoba and Antequera, in Andalusia. The selling point of that inauguration was the idea that the train journey between Granada and Madrid was reduced from six hours to four and a half. A couple of days later, a letter from a Granada resident appeared in a newspaper reporting that he had conducted the experiment and certified that it was true: he had saved an hour and a half of his time on the trip to Madrid, and the same returning to Granada. Each of those saved hours, however, cost him an additional 18 euros. The writer admitted to preferring the old train, which allowed him to read an hour and a half more per trip and which, above all \- and let's not fool ourselves \- saved him money he couldn’t spare.
+
+A few years later, in 2010, the then Spanish Minister of Development, José Blanco, called a press conference in Madrid to promote a new high-speed line that was to connect Madrid and Valencia. In his speech, he presented a disheartening estimate. The new line was to allow a 55% reduction in air traffic between these two cities, a 25% reduction in car traffic, and a 5% reduction in bus traffic. I retranslate the inescapable meaning of these numbers: we have invested millions of euros to build a new public railway infrastructure, designed to allow half of the wealthy individuals who traveled by plane between Madrid and Valencia to switch to the train, while the overwhelming majority of the poor who used the bus will continue doing so.  This doesn't seem like the best use of everyone's resources.
+
+A colleague from Andalusia stated at the time that the AVE is a textbook example of how members of the working classes joyfully celebrate the fact their taxes pay for high-speed lines built almost exclusively for the wealthy. And if someone asks who benefits from the AVE, the answer must be that, apart from construction companies and those involved in *la mordida* \[kickbacks\], its main beneficiaries are – what a paradox – private bus companies.

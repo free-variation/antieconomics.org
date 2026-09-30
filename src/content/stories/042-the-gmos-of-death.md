@@ -1,0 +1,12 @@
+---
+number: 42
+title: "The GMOs of death"
+---
+
+My colleague Gustavo Duch has written a beautiful text about transgenics and their effects. Here it is. “Upon opening its eyes, that three-century-old tree, two hundred years after its previous blink \- for that is its normal rhythm \- saw everything completely changed. As if by magic, in the blink of an eye \- and this is not metaphorical \- the town it overlooked from its highest branches was completely ruined, as if it had suffered the worst bombardment. The gardens that surrounded it, the mills, the chicken coops, the girls and boys playing, the cows grazing... all of that last image, imprinted on its wooden retina, had been replaced by a vast, monotonous, green field of corn. The tree’s shudder was accompanied by a new sensation, like a sting in its trunk. There was a sign nailed to it, indicating that it was surrounded by GMO corn. It burst into tears of clear sap. (...)"
+
+Submerged in that green and boring world, under the shadow of the old giant, two ephemeral worms, halfway into their lives, conversed while nibbling on leaves. ‘Do you know what I've been told?’ asked the more cheerful of the two. ‘Many years ago, corn was eaten here, but also lettuces, chards, cabbages... and with those foods, we lived much longer than now. In those times, the Sun would hide only to rise again\! Then, in addition to us, there were other animals similar to our great-great-grandparents. They say there were worms that didn’t crawl on the ground like us. They had colorful wings and could fly. Other worms were blind and lived by eating earth, which they expelled. They were only seen when it rained. There were even slimy worms that carried a shell on their backs.’” (...)
+
+GMOs are in our fields and in our diets. In the fields, their latifundist expansion displaces millions of peasant families. Like a reverse King Midas, everything they touch becomes poor. And when they touch crops of native seeds, they infect them with their modified genes, taking them as prisoners. Will they sew inverted triangles on them to suffocate them in concentration camps? Maybe. And in our diets, we ingest them little by little. Potatoes with GMOs, meat with GMOs, popcorn with GMOs, all enriched with their associated pesticides.
+
+And how do we confront this? With a subjugated political class, those who seem to open and close their eyes to the rhythm of those old trees. When they become aware of reality \- if they ever do \- they are left looking dumbfounded, incapable of reacting. (...)".

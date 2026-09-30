@@ -1,0 +1,8 @@
+---
+number: 44
+title: "Anarchists of Temuco"
+---
+
+I know of few texts, if any, that better portray the condition of our everyday life. I found it on social media, and it was signed on May 1, 2014, by those who called themselves Anarchists of Temuco. It reads as follows: “To be forced to work will always be to die a little. To enrich others, obey awful bosses, run to not be late, fake smiles, receive starvation wages: all of this kills. To lose moments of love and pleasure, of leisure and creativity, and to forget the ability to imagine completely different tomorrows – this is the sentence imposed on us by the masters of all times and colors. To be an exemplary worker and to endure without protest will never be a sign of pride. We will not be happy slaves. We want to reconquer ourselves, we demand Life. And if something has to die, it is the exploitative order that subjugates us. Health and freedom\!”
+
+What do I see behind those lines? Above all, I see an open challenge to today’s manifestations of voluntary servitude. We end up believing in the unbelievable, and against all reason, we think that work gives us boundless pleasure. As if a subsistence wage, or in some cases, the income that allows us to acquire what we don't need, filled us with happiness. Behind all this, as is well known, lurks a major precondition enabling all of the above: the acceptance of hierarchy and exploitation as innate traits of the human species. And it’s noticeable that the memory of the life that once \- it can be assumed \- made our existence joyful, has disappeared.  Good for you, anarchists of Temuco.

@@ -1,0 +1,11 @@
+---
+number: 57
+title: "Damned cars"
+---
+
+When I speak about degrowth, I try to remember that I’m not a particularly consistent person.  I do, however, have some virtues that stem from my shortcomings. One of these is that I don't know how to drive; therefore, after much deliberation, I decided not to own a car. Someone might wonder if, in the city where I live, I miss having a car. The answer, which I will now justify, is a resounding *no*.
+
+I live in Vallecas, a neighborhood located in the southeast of Madrid. From my house's doorway to a nearby railway station is a five-minute walk. On average, and before I retired, it took me about fifty minutes by train to reach my office at the *Universidad Autónoma*, located in the north of the city. What would have happened if I had a car? Surely, on many days, I might have arrived faster. But other days, given the usual traffic jams in cities, I wouldn't have known exactly what time I would arrive: a bad deal for the diligent students waiting for me in a classroom.   
+Secondly, it’s obvious that from an ecological perspective, public transport in general, and the train in particular, is markedly preferable to a car, especially since there’s usually just one person in the latter. Thirdly, the train was much more economical for me. The literature on degrowth is full of exhortations to car owners, urging them to calculate the proportion of their working hours that go into maintaining their vehicles. How many hours of freedom does the car allow, and how many hours of slave labor are necessary to pay for the vehicle, gasoline, taxes, repairs, insurance...? Fourthly, I could read on the train, something that, as far as I know, is best not done by someone driving a car... Finally, my university's station is happily a twelve-minute walk from where I taught my classes: every day, I was forced into basic physical exercise that I wouldn’t have done if I had a car.
+
+I realize there are people who live in certain places or have certain jobs that make the use of a car unavoidable. However, I’m convinced that this isn’t the most common case. Or, to put it another way, that the majority of those who today own cars would live better without them.

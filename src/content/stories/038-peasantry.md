@@ -1,0 +1,10 @@
+---
+number: 38
+title: "Peasantry"
+---
+
+A few years ago, I had the opportunity to speak about degrowth at three secondary schools in rural Galicia. It hadn’t occurred to me before, but I asked the hundred or so teenagers in each auditorium if anyone had some awareness, however basic, of the labor involved in farming. Only three hands went up, one in each group. If this was the case in rural Galicia – I thought – it seemed pointless to ask a similar question in cities like Madrid or Barcelona. We city dwellers know nothing about farmers’ chores.
+
+A few months later, I took part in a roundtable discussion on food sovereignty in Albacete, La Mancha. I listened intently to a man my age who began by describing himself as most definitely a *peasant*.  And he clearly was just that, not an *agricultor* \[agriculturist\] – the latter term being firmly rooted in the 'Newspeak' of the European Union and its so-called common agricultural policy. He explained that the few young people remaining in his village, living off their parents, weren’t in the least interested in farming potatoes, tomatoes, and peppers. The shame they seemed to feel for their ancestors' work lit a bulb in my head: perhaps among those young people in Galicia who listened to me – I'm not sure how attentively – many more were familiar with fieldwork than those who had raised their hands.  Perhaps the former were too ashamed to admit it. I'm not sure if this conclusion is a reason for optimism – that there's still hope – or, on the contrary, suggests that we should consider the battle lost.
+
+Despite these challenges, there’s still an open door: one that many immigrants from rural areas of Sub-Saharan Africa and Latin America might come through, bringing with them a wealth of knowledge that’s been robbed from us. A few days before my visit to Albacete, I read a book about school textbooks from Spain in the first third of the 20th century. One subject that stood out was *horticulture*. Are we still in time to recover this knowledge?

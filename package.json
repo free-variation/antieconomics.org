@@ -1,0 +1,17 @@
+{
+  "name": "antieconomics-org",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "split": "node scripts/split.mjs",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^7.3.5"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

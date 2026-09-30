@@ -1,0 +1,12 @@
+---
+number: 60
+title: "Barrett’s chickens"
+---
+
+Few texts better portray the vices of private property than this masterful tale by Rafael Barrett, the Spanish anarchist who flourished in Argentina, Brazil, Uruguay, and especially Paraguay. Its lines depict the unhappiness that, in a curious paradox, stems from the accumulation of goods, the deterioration \- and then, the debasement \- of human relationships, and ultimately, a lacerating insecurity that makes one long for the peaceful times when one owned neither roosters nor hens.
+
+"When I owned nothing more than my cot and my books, I was happy. Now I own nine hens and a rooster, and my soul is troubled. Property has made me cruel. Whenever I bought a hen, I tied it to a tree for two days to impose my domicile on it, erasing from its fragile memory the love for its old residence. I mended the fence of my yard to prevent the escape of my birds and the invasion of both four- or two-footed foxes.  I isolated myself, fortified the border, drew a diabolical line between my neighbor and me. I divided humanity into two categories; me, the owner of my hens, and the others, who could take them from me. I defined crime. The world filled up with potential thieves for me, and for the first time, I cast a hostile glance over the fence."
+
+"My rooster was too young. The neighbor's rooster jumped the fence and courted my hens, making life bitter for my rooster. I chased the intruder away with stones, but my hens jumped the fence and laid eggs at the neighbor's house. I claimed the eggs, and my neighbor grew to hate me. Since then, I saw his face over the fence, his inquisitive and hostile look, identical to mine. His chickens crossed the fence and ate the soaked corn I had set aside for mine. The neighbor's chickens seemed criminal to me. I chased them, and blinded by rage, killed one. The neighbor attributed enormous importance to the attack. He refused monetary compensation. He gravely retrieved the corpse of his chicken, and instead of eating it, showed it to his friends, starting the village legend of my imperialist brutality. I had to reinforce the fence, increase surveillance, raise, in a word, my war budget. The neighbor has a dog ready for anything; I plan to acquire a revolver."
+
+"Where is my old tranquility? I am poisoned by distrust and hatred. The spirit of evil has taken hold of me. I was once a man. Now I am a property owner..."

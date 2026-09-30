@@ -1,0 +1,25 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { BOOK_TITLE, AUTHOR, getStories, titleHtml } from '../lib/book';
+
+const intro = (await getEntry('front', 'foreword-english'))!;
+const foreword = (await getEntry('front', 'foreword'))!;
+const epilogue = (await getEntry('front', 'epilogue'))!;
+const { Content } = await render(intro);
+const stories = await getStories();
+---
+<Base>
+  <h1>{BOOK_TITLE}</h1>
+  <p>{AUTHOR}</p>
+  <h2>{intro.data.title}</h2>
+  <Content />
+  <h2>Contents</h2>
+  <p><a href={`/${foreword.id}/`}>{foreword.data.title}</a></p>
+  <ol class="toc">
+    {stories.map((s) => (
+      <li value={s.data.number}><a href={`/stories/${s.id}/`} set:html={titleHtml(s.data.title)} /></li>
+    ))}
+  </ol>
+  <p><a href={`/${epilogue.id}/`}>{epilogue.data.title}</a></p>
+</Base>

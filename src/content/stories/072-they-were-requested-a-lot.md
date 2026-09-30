@@ -1,0 +1,10 @@
+---
+number: 72
+title: "They were requested a lot"
+---
+
+Rafael Azcona was, among many other things, the scriptwriter for several films by Luis García Berlanga. He liked to tell a story that I became aware of through an account by Jacobo Fitz-James Stuart’s, which in turn appeared in a newspaper article by Fernando Esteve.
+
+It seems that in the mid-20th century, Azcona traveled by car from Madrid to Zaragoza with some friends. They stopped at an inn where, according to one of Azcona's companions, they served very tasty muffins – I assume that our man and his colleagues enjoyed the muffins. Some time later, knowing that an acquaintance was going to take the same route, Rafael recommended that particular inn.  When he later asked about the visit – "weren't the muffins good?" he surely asked – his interlocutor succinctly replied that the inn no longer served muffins. Faced with Azcona's incredulity, he explained that he had asked about them, of course, and the waiter, who probably had to be prodded for an answer, explained dryly: "We no longer make them. Too many people were asking for them."
+
+Fitz-James Stuart suggests that the waiter had a unique way of understanding business. Esteve corroborates this in his article, rightly estimating that this anonymous hero was the antithesis of the idolized entrepreneur of our days. His perception of economic facts was indelibly marked by a long workday standing behind a sordid bar, with no other conversation other than what was necessary to serve coffee and muffins. Wouldn't it be much more reasonable to forego the meager profit derived from selling these muffins in favor of a shorter, calmer workday, and warmer social relations? Wasn’t it more logical, as Esteve points out again, to renounce his overwhelming condition as a *homo economicus* to regain the status of *homo* without adjectives? The story, and with it the explanation, reminds me of something Arturo de Nieves told me. While walking through a Galician city, Arturo came across a bar with a sign on the door that read: "Closed due to tiredness, not for rest."

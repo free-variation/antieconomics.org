@@ -1,0 +1,10 @@
+---
+number: 31
+title: "The farce of the automobile, and of the ecological car"
+---
+
+There are two texts by Eduardo Galeano that confront us with the grim reality of the automobile and its world. The first, appearing in *Espejos* \[Mirrors\], sees the car as the spoiled child of the family, sadly gluttonous \- devouring oil, gas, corn, and whatever else is available \-, master of the time of humans who supposedly enjoy it, caught in a whirlwind of stubborn reproduction, a killer on streets and highways, intent on stealing our air, and sarcastic when it hears us say 'I drive'.
+
+The second is found in another book, *El cazador de historias* (The Hunter of Stories), and describes a religious ceremony that took place in Quito, Ecuador, in mid-1972, amidst formidable media attention. After singing the national anthem and with emotions running high, the first barrel of oil produced in the country by Texaco was displayed on a specially constructed altar, adorned with flowers. Galeano narrates how, in a moment of popular fervor, General Rodríguez Lara, who had handed over the business to the American company, shouted: 'We are going to sow oil\! A new era has been born\!'. That era, of course, was marked by the most ferocious massacres of indigenous people in the history of the Amazon rainforest.
+
+I want to add a final observation on the car and its world, drawing attention to the contemporary farce that is the *ecological car*. I will set aside the fact that production of this type of car is as environmentally costly as the conventional vehicle, and that these cars pollute less through the exhaust pipe, but more because of the myriad of gadgets inside them. What I want to emphasize – in line with an idea I explore elsewhere in this little book – is that those who run the planet often manage to prevent us from asking the important questions. In this case, the most relevant question we should ask is whether we need cars at all. The automotive industry has already decided for us that we do, and offers them to us wrapped in a supposed ecological commitment – which fails to mask all the misery behind it.

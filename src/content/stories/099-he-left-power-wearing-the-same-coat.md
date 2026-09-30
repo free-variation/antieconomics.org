@@ -1,0 +1,12 @@
+---
+number: 99
+title: "He left power wearing the same coat"
+---
+
+Egalitarian behaviors and codes don’t die. So much so that some people feel a genuine fascination in confirming their persistence after centuries of capitalism, statehood, and patriarchy. To illustrate this persistence, this time I won’t travel to the Southern hemisphere; instead, I'll head to the very singular space that is Central and Eastern Europe.
+
+In the late 1990s, during a trip to Moscow, a Russian friend living in Madrid asked me to bring her mother a package of clothes and food. I arrived at the home of this kind lady, located in a modest neighborhood on the outskirts of the city. It quickly became apparent that my friend's mother had significant reasons to reject the former Soviet order.  Her relatives had suffered the effects of the brutal repression during the Stalin years.
+
+At one point, I asked this lady what she thought of the leaders who were in power at that time, or just before, in Central and Eastern Europe. She began a long response in which she demonized each of these leaders in turn. She referred in an unfriendly tone to Gorbachev, who, in her view, had arrived at the Kremlin as a modest man, only to soon be dressed by flashy tailors and enjoy two formidable mansions. She said something similar about Yeltsin, with the inevitable addition of a dark comment about the first president of independent Russia's fondness for alcohol. After bitterly criticizing other political figures, she paused and said, "Of all these people, there's only one I trust." "And who is that?" I asked. "Tadeusz Mazowiecki, the former Polish Prime Minister. He came to power with a coat and left power wearing that same coat," she replied.
+
+It's striking that someone who would’ve been placed far from an egalitarian worldview, when it came time to judge the leaders of her country and others nearby, had no hesitation in proudly employing that very worldview. Some might be tempted to say that this egalitarian undercurrent, this rejection of profiteering and private enrichment, was merely a legacy of the Soviet era. I doubt it. Soviet-type systems were anything but egalitarian, and the egalitarian code clearly existed in the collective imagination even before their emergence. One only needs to look at what the 19th-century Russian populists, the *Narodniks*, advocated, and what is postulated, amidst a sea of contradictions, by the autocephalous Orthodox Church itself.

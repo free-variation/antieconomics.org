@@ -1,0 +1,25 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { getStories, titleHtml, titleText } from '../../lib/book';
+
+export async function getStaticPaths() {
+  const stories = await getStories();
+  return stories.map((story, i) => ({
+    params: { slug: story.id },
+    props: { story, prev: stories[i - 1], next: stories[i + 1] },
+  }));
+}
+
+const { story, prev, next } = Astro.props;
+const { Content } = await render(story);
+---
+<Base title={titleText(story.data.title)}>
+  <h1><span class="number">{story.data.number}.</span> <span set:html={titleHtml(story.data.title)} /></h1>
+  <Content />
+  <nav class="pager">
+    {prev ? <a href={`/stories/${prev.id}/`}>← {prev.data.number}</a> : <span />}
+    <a href="/">Contents</a>
+    {next ? <a href={`/stories/${next.id}/`}>{next.data.number} →</a> : <a href="/epilogue/">Epilogue →</a>}
+  </nav>
+</Base>

@@ -1,0 +1,10 @@
+---
+number: 2
+title: "Women’s huts"
+---
+
+The name of John Zerzan is associated with anarcho-primitivism.  Zerzan is a fierce critic of technology.  He has frequently categorically stated that all technologies created by capitalism bear the imprint of the division of labor, hierarchy, and exploitation.  It’s a serious argument that merits consideration.
+
+In one of his books, *Twilight of the Machines*, Zerzan revisits the views of Camille Paglia, a well-known literary scholar whose discourse, though feminist in one of its dimensions, arouses many controversies among feminists themselves.  Paglia, perhaps provocatively, recounts once encountering a gigantic crane rising from the bed of a truck on the street.  This sight led her to wonder if this technological prodigy, connecting us back to ancient Egypt, would have been conceivable in a society and history led by women and not, like ours, by men.  Paglia concludes, with a clear vocation to provoke, that with women in charge, we would still be living in straw huts.
+
+The immediate and logical reaction to such a conclusion is to deny the premise, i.e. to assert instead that women would have achieved the same or even greater technological feats than men.  While this is a perfectly respectable response, it avoids the main question: are those modest and despised straw \[*paglia* in Italian\] huts not the most significant and wonderful contribution of women to the development of humanity, far from the miseries of technologies that have so often shown their immense capacity to end life?  In one of her texts Maria González Reyes asks herself, very much in tune with what I am saying, what history would be like if women had written it.  Here is her answer: “It would be history filled with stories of what happens inside kitchens, in neighbor’s patios, of those who cling to brooms and of water that washes away the dirt from the floor.  Stories hanging in the wind, on community clotheslines, held by clothespins on ropes, about to fly off as the wind wishes”.

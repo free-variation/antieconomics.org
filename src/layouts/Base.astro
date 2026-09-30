@@ -1,0 +1,37 @@
+---
+import { BOOK_TITLE, AUTHOR } from '../lib/book';
+
+interface Props { title?: string }
+const { title } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title ? `${title} · ${BOOK_TITLE}` : `${BOOK_TITLE} · ${AUTHOR}`}</title>
+  </head>
+  <body>
+    <header><a href="/">{BOOK_TITLE}</a> · {AUTHOR}</header>
+    <main><slot /></main>
+  </body>
+</html>
+
+<style is:global>
+  :root { --fg: #222; --bg: #fdfcf8; --muted: #666; --link: #8a2b0e; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg: #e6e2d8; --bg: #1b1a17; --muted: #999; --link: #e3936f; }
+  }
+  body {
+    margin: 0 auto; max-width: 38rem; padding: 1.5rem 1rem 4rem;
+    font: 1.125rem/1.6 Georgia, 'Times New Roman', serif;
+    color: var(--fg); background: var(--bg);
+  }
+  a { color: var(--link); }
+  header { font-size: 0.9rem; color: var(--muted); margin-bottom: 2rem; }
+  header a { text-decoration: none; font-weight: bold; }
+  nav.pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 3rem; font-size: 0.95rem; }
+  ol.toc { padding-left: 2.5rem; }
+  .number { color: var(--muted); }
+  section[data-footnotes] { font-size: 0.9rem; color: var(--muted); margin-top: 3rem; }
+</style>

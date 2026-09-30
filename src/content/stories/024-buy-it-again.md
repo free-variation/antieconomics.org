@@ -1,0 +1,10 @@
+---
+number: 24
+title: "Buy it again"
+---
+
+In one of their stories, our friends at *Econoplastas* tell us of a character, Lorenzo, who lived for his car. He washed it twice a week, took it out for a walk every day, as if it were a little dog, scrupulously tried not to strain it, and took it in for check-ups earlier than recommended. Six months after buying the car, the ashtray lid popped open. Although he tried to shut it in every which way, the slightest movement would cause it to reopen. Some spring must have come loose. Annoyed at the prospect of his beloved car having a defect, he decided to take it to the garage.
+
+In the garage, they made matters clear from the start: it wasn’t worth fixing the ashtray, and instead it would be better to buy a new car. Why? The ashtray was embedded in the front of the dashboard and was a very particular piece. To reach the base of the broken spring, the entire dashboard had to be disassembled, which in turn was a single piece containing the light switches, the turn signal, the windshield wiper control, the heating and air conditioning regulators, the ignition key... As Lorenzo listened astonished, the mechanic explained that they also had to consider what would happen with the odometer, the tachometer, the oil pressure, the water temperature, the car's computer, the radio, the CD player, the MP3 player, and the USB port. Things didn’t end there, however, as they had to weigh what would happen with the wiring, the connectors, the anti-parasite devices, the cable ties, and the terminals embedded in the steering column, which would have to be disassembled. 
+
+“If we're lucky, and with great care, we could disassemble the steering column from above, which saves labor, but risks damaging the wiring harness. Otherwise, we’ll have to go in via the engine, affecting the steering box, the Bendix cylinder, the ball bearings, the Carcan joint, the comb arm, and the rack. Plus, we’d have to order the spring from Thailand, plus VAT and labor... As I said, it's not worth it, buy a new one'. Poor Lorenzo. If only he had been more careful with the spring in his ashtray.
